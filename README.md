@@ -4,8 +4,7 @@
 
 <hr>
 
-### Data Analyst | Making Data Speak for Business
-
+### Data Analyst | Transforming Data into Actionable Business Insights.
 *New Delhi, India 🇮🇳*
 
 <a href="https://www.linkedin.com/in/manikant2506/" target="_blank">
