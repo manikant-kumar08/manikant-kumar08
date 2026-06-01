@@ -100,7 +100,7 @@
 - Advanced SQL
 - Python for Analytics
 - Web Analytics
-- Digital Media Analytics
+- IOT and Data Analytics
 
 ---
 
