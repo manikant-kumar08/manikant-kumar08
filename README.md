@@ -72,10 +72,14 @@
 ### 🍔 Swiggy Data Analysis
 - Restaurant performance and customer insights
 - SQL + Power BI Reporting
-
+  
 ### 🎬 IMDB Movie Analysis
-- Exploratory Data Analysis using Python
-- Trends, ratings and genre analysis
+- Performed EDA using Python (Pandas, NumPy, Matplotlib).
+- Analyzed ratings, genres, and movie trends for insights.
+
+## 🍔 Food Delivery Application Dashboard
+- Interactive dashboard for order, revenue, and delivery analysis.
+- Visualized KPIs and customer trends using Power BI/Tableau.
 
 ---
 
@@ -95,7 +99,8 @@
 
 - Advanced SQL
 - Python for Analytics
-- Machine Learning Fundamentals
+- Web Analytics
+- Digital Media Analytics
 
 ---
 
