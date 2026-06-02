@@ -24,7 +24,7 @@
 - 🎓 BCA Graduate from IKGPTU (2020–2023)
 - 💼 Data Analyst Intern at GeeksforGeeks
 - 📍 Based in New Delhi, India
-- 💡 Worked on real-world projects including Myntra, Swiggy, IMDB & Hospital Wait List Analysis
+- 💡 Worked on real-world projects including Myntra, Swiggy, IMDB & Food Delivery Application Dashboard
 - 🚀 Currently building projects in SQL, Python & Power BI
 - 📊 Passionate about transforming data into business insights
 
