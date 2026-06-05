@@ -82,7 +82,6 @@
 - Visualized KPIs and customer trends using Power BI/Tableau.
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -90,12 +89,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manikant-kumar08&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikant-kumar08&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikant-kumar08&theme=tokyonight" />
+</p>  
 ---
 
 # 🌱 Currently Learning
