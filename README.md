@@ -80,7 +80,19 @@
 ## 🍔 Food Delivery Application Dashboard
 - Interactive dashboard for order, revenue, and delivery analysis.
 - Visualized KPIs and customer trends using Power BI/Tableau.
+  
+## 📦 Inventory Management Dashboard
+-  Built an Inventory Management Dashboard to monitor stock levels and inventory movement.
+-  Created Power BI reports to track inventory KPIs and warehouse performance.
+- 
+## 🛒 E-Commerce Revenue Analysis 
+- Analyzed e-commerce sales data to evaluate revenue performance, customer behavior, and product trends.
+- Cleaned, transformed, and validated datasets using SQL and Excel
 
+## 📈 Sales Dashboard
+- Designed and developed an interactive Sales Dashboard for business performance analysis.
+- Analyzed revenue, profit, sales growth, and customer trends.
+  
 ---
 ## 📊 GitHub Stats
 
@@ -99,6 +111,7 @@
 - Python for Analytics
 - Web Analytics
 - IOT and Data Analytics
+- Machine learning 
 
 ---
 
