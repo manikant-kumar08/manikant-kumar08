@@ -84,7 +84,7 @@
 ## 📦 Inventory Management Dashboard
 -  Built an Inventory Management Dashboard to monitor stock levels and inventory movement.
 -  Created Power BI reports to track inventory KPIs and warehouse performance.
-- 
+  
 ## 🛒 E-Commerce Revenue Analysis 
 - Analyzed e-commerce sales data to evaluate revenue performance, customer behavior, and product trends.
 - Cleaned, transformed, and validated datasets using SQL and Excel
